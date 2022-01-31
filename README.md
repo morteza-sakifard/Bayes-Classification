@@ -1,2 +1,2 @@
-# Bayes-Classification
-Naive Bayes Classification
+# Naive Bayes Classification
+ The bayes classifier is the theoretically optimal classifier for a given classification problem. For a given input pattern, the Bayes classifier outputs the label that is the most likely, and thus provides a prediction that is the less likely to be an error compared with the other choices of label. Since the Bayes classifier applies this scheme for all possible inputs, this yields the smallest probability of error, a quantity also known as the Bayes' risk, i.e., the risk of the Bayes classifier which is by definition the smallest risk one can obtain for a given problem.
